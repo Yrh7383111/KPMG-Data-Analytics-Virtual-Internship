@@ -18,10 +18,10 @@ Data Visualization: Dashboard and Report
 ## Visualization
 
 ### Transactions by Car
-![Transactions by Car](https://github.com/Yrh7383111/KPMG-Data-Analytics-Virtual-Internship/blob/master/Visualizations/Transactions%20by%20Car.png)
+![Transactions by Car](https://github.com/Yrh7383111/KPMG-Virtual-Experience-Program/blob/master/Visualizations/Car.png)
 
 ### Transactions by Date of Birth
-![Transactions by Date of Birth](https://github.com/Yrh7383111/KPMG-Data-Analytics-Virtual-Internship/blob/master/Visualizations/Transactions%20by%20DOB.png)
+![Transactions by Date of Birth](https://github.com/Yrh7383111/KPMG-Virtual-Experience-Program/blob/master/Visualizations/DOB.png)
 
 ### Transactions by Property
-![Transactions by Property](https://github.com/Yrh7383111/KPMG-Data-Analytics-Virtual-Internship/blob/master/Visualizations/Transactions%20by%20Property.png)
+![Transactions by Property](https://github.com/Yrh7383111/KPMG-Virtual-Experience-Program/blob/master/Visualizations/Property.png)
